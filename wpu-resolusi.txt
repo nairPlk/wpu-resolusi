@@ -1,2 +1,3 @@
 WPU RESOLUSI
   - Konsisten dalam bermain Batlefield 4
+  - Belajar Git dan GitHub
